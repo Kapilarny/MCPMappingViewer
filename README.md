@@ -1,5 +1,7 @@
 MCP Mapping Viewer
 =================
+**The official MCP Mapping Viewer made by bspkrs was no longer supported, so if you want the latest version you better check here**
+
 A small GUI for viewing the mappings from Minecraft obfuscated code names to MCP code names.
 
 ### Links of Interest
